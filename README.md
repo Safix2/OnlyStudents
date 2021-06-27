@@ -16,12 +16,12 @@
         font-style:italic;
     }
     h1{color:rgb(19, 38, 245);}
-    
+    span{color:rgb(0,0,200);}
     
     </style>
     <body>
         
-        <h1>Safi's blog</h1>
+        <h1><span>Safi's blog</span></h1>
        
 
         <h3>Contents</h3>
