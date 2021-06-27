@@ -16,7 +16,7 @@
         font-style:italic;
     }
     h1{color:rgb(19, 38, 245);}
-    span{color:rgb(0,0,200);}
+    span{color:rgb(200,10,0);}
     
     </style>
     <body>
